@@ -323,7 +323,7 @@ onUnmounted(() => {
           <input
             v-model="addressInput"
             type="text"
-            placeholder="请输入地址（例如：北京市天安门广场1）"
+            placeholder="请输入地址（例如：北京市天安门广场）"
             class="address-input"
             @keypress="handleKeyPress"
           />
