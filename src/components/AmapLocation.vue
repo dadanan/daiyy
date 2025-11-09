@@ -372,7 +372,7 @@ onUnmounted(() => {
       
       <div class="empty-state" v-else>
         <p>📍 暂无标记</p>
-        <p class="empty-hint">在上方输入地址并标记位置</p>
+        <p class="empty-hint">上方为已标记的位置列表</p>
       </div>
     </div>
   </div>
